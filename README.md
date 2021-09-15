@@ -1,1 +1,1 @@
-# El arte de la analítica
+# La analítica del arte
